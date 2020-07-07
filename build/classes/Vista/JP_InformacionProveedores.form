@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jl_Cedula" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="jl_NombreEmpresa" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="jl_Telefono" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="jl_Correo" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="jl_NombreContacto" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="65" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="jt_Cedula" max="32767" attributes="0"/>
+                  <Component id="jt_NombreEmpresa" max="32767" attributes="0"/>
+                  <Component id="jt_Telefono" max="32767" attributes="0"/>
+                  <Component id="jt_Correo" max="32767" attributes="0"/>
+                  <Component id="jt_NombreContacto" pref="202" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace pref="41" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jl_Cedula" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jt_Cedula" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jl_NombreEmpresa" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jt_NombreEmpresa" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jl_Telefono" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jt_Telefono" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jl_Correo" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jt_Correo" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jl_NombreContacto" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jt_NombreContacto" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="95" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jl_Cedula">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cedula"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jl_NombreEmpresa">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nombre Empresa"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jl_Telefono">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Telefono"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jl_Correo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Correo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jl_NombreContacto">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nombre contacto"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jt_Cedula">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jt_NombreEmpresa">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jt_NombreEmpresaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jt_Telefono">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jt_Correo">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jt_NombreContacto">
+    </Component>
+  </SubComponents>
+</Form>

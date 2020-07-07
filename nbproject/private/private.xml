@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Controlador/Contrlador_FRM_MenuPrincipal.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Controlador/Controlador_FRM_Login.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Modelo/Proveedores.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Vista/FRM_MantenimientoProveedores.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Controlador/Controlador_FRM_Facturacion.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Vista/FRM_MenuPrincipal.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Vista/FRM_ReporteProductos.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Modelo/ConexionBD.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Modelo/DatosConexion.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Vista/FRM_ConfiguracionConexion.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Vista/FRM_AcercaDe.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Vista/FRM_ReporteProveedores.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Vista/FRM_ReporteClientes.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Vista/JP_InformacionAdministracionUsuarios.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Vista/FRM_Login.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Controlador/Controlador_FRM_ConfiguracionConexion.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Vista/FRM_Facturacion.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Controlador/ArchivosBaseDtos.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Vista/FRM_MantenimientoAdministracionUsuarios.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Vista/FRM_MantenimientoProductos.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Controlador/Controlador_FRM_MantenimientoUsuarios.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Vista/FRM_MantenimientoClientes.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Controlador/Controlador_FRM_MantenimientoProductos.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Controlador/Controlador_FRM_MantenimientoProveedores.java</file>
+            <file>file:/C:/Users/sebas/Desktop/progra%202/Primer%20proyecto%20progra%20Sebastián%20Mesén%20B74769/Facturacion_Array_IEF/src/Controlador/Controlador_FRM_MantenimientoClientes.java</file>
+        </group>
+    </open-files>
+</project-private>
